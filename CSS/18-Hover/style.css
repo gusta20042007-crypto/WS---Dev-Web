@@ -1,0 +1,13 @@
+a {
+    background-color: #4f772d;
+    color: white;
+    padding: 10px 10px;
+    border-radius: 10px;
+    font-style: none;
+    cursor: pointer;
+}
+
+a:hover {
+    background-color: #90a955;
+    text-decoration: underline;
+}
